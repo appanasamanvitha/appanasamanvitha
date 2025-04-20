@@ -63,12 +63,8 @@ Classifying music genres using machine learning and audio features.
 
 ---
 
-<div style="background-color:#1e1e1e; border: 2px solid #7fff00; padding: 15px; border-radius: 10px; width: fit-content; font-family: sans-serif; margin-top: 20px;">
-  <p style="color:orange; font-weight:bold; margin: 0;">💭 Before You Go...</p>
-  <p style="color:limegreen; font-weight:bold; margin: 0;">Why do programmers prefer dark mode?</p>
-  <p style="color:limegreen; font-weight:bold; margin: 0;">Because light attracts bugs! 🐞</p>
-</div>
 
+![Before You Go](https://github.com/appanasamanvitha/appanasamanvitha/blob/main/Screenshot%202025-04-20%20123500.png)
 
 > "Code is like humor — when you have to explain it, it’s bad."  
 Thanks for stopping by, and feel free to connect! 😊
