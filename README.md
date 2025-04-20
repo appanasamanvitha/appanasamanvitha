@@ -9,7 +9,7 @@
 - 🌱 I’m currently expanding my knowledge in **SQL**, **Data Science Projects**, and **Model Optimization**.
 - 💼 I’m interested in working as a **Data Scientist** or **Data Analyst**.
 - 💬 Ask me about **Machine Learning models, data pipelines, and analytics tools**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/YourLinkedIn)** | ✉️ **yourname@example.com**
+- 📫 How to reach me: **[LinkedIn]((https://www.linkedin.com/in/samanvitha-narayani-appana-7b7247251/)** | ✉️ **appanasamanvitha2207@gmail.com**
 
 ---
 
@@ -32,25 +32,22 @@
 
 <h3>📌 My Featured Projects</h3>
 
-- 🔥 [Sales Forecasting Using XGBoost](https://github.com/YourUsername/sales-forecasting) — Predict future sales for smarter inventory planning.
-- ⚗️ [Chemical Reaction Yield Prediction Using BERT](https://github.com/YourUsername/chemical-yield-prediction) — Predict chemical reaction outcomes using AI & NLP.
-- 🎵 [Music Genre Classification](https://github.com/YourUsername/music-genre-classification) — Classify music tracks by genre with machine learning.
+- 🔥 [Sales Forecasting Using XGBoost](https://github.com/appanasamanvitha/Sales-Forecasting-for-Inventory-Optimization.git)
+📈 Predicting future sales trends for better inventory planning in e-commerce.
 
+- ⚗️ [Water Potability Prediction](https://github.com/YourUsername/chemical-yield-prediction)  
+🧬 Predicting Water Quality using H20 AutoML , helps to ensure safety of drinking water.
+
+- 🎵 [Music Genre Classification](https://github.com/YourUsername/music-genre-classification)  
+🎧 Classifying music tracks based on audio features using machine learning algorithms.
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="Samanvitha's GitHub stats"/>
-</p>
-
----
 
 <h3>📫 Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/YourLinkedIn" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="samanvitha" /></a>
-<a href="mailto:yourname@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="(https://www.linkedin.com/in/samanvitha-narayani-appana-7b7247251/)n" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="samanvitha" /></a>
+<a href="mailto:appanasamanvitha2207@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -59,7 +56,7 @@
 
 
 
-
+<!---
 
 
 # 👋 Hi there, I’m Samanvitha!
@@ -130,3 +127,4 @@ I am deeply passionate about uncovering patterns in data and transforming raw nu
 *“Code is like humor — when you have to explain it, it’s bad.”*  
 Thanks for stopping by! 😊
 
+---!>
