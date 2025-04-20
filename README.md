@@ -1,3 +1,67 @@
+<h1 align="center">Hi 👋, I'm Samanvitha</h1>
+<h3 align="center">Aspiring Data Scientist | Future Data Analyst | AI & Machine Learning Enthusiast</h3>
+
+🌟 I’m a final-year Computer Science student at **BVRIT Hyderabad** with a strong passion for  
+📊 **Data Analytics**, 🤖 **Machine Learning**, and 💡 **Artificial Intelligence**.
+
+---
+
+- 🌱 I’m currently expanding my knowledge in **SQL**, **Data Science Projects**, and **Model Optimization**.
+- 💼 I’m interested in working as a **Data Scientist** or **Data Analyst**.
+- 💬 Ask me about **Machine Learning models, data pipelines, and analytics tools**.
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/YourLinkedIn)** | ✉️ **yourname@example.com**
+
+---
+
+<h3>🧠 Languages and Tools</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+<img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Huggingface-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+---
+
+<h3>📌 My Featured Projects</h3>
+
+- 🔥 [Sales Forecasting Using XGBoost](https://github.com/YourUsername/sales-forecasting) — Predict future sales for smarter inventory planning.
+- ⚗️ [Chemical Reaction Yield Prediction Using BERT](https://github.com/YourUsername/chemical-yield-prediction) — Predict chemical reaction outcomes using AI & NLP.
+- 🎵 [Music Genre Classification](https://github.com/YourUsername/music-genre-classification) — Classify music tracks by genre with machine learning.
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="Samanvitha's GitHub stats"/>
+</p>
+
+---
+
+<h3>📫 Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/YourLinkedIn" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="samanvitha" /></a>
+<a href="mailto:yourname@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+> 💡 *"Turning data into decisions, and curiosity into solutions!"*
+
+
+
+
+
+
 # 👋 Hi there, I’m Samanvitha!
 
 🎯 **Aspiring Data Scientist & Data Analyst | Final-Year CSE Student at BVRIT Hyderabad**
