@@ -64,7 +64,7 @@ Classifying music genres using machine learning and audio features.
 ---
 
 
-![Before You Go](https://github.com/appanasamanvitha/appanasamanvitha/blob/main/Screenshot%202025-04-20%20123500.png)
+![Before You Go](https://github.com/appanasamanvitha/appanasamanvitha/blob/main/Screenshot%202025-04-20%20124035.png)
 
 > "Code is like humor — when you have to explain it, it’s bad."  
 Thanks for stopping by, and feel free to connect! 😊
