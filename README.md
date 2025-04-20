@@ -1,17 +1,19 @@
 # 👋 Hi there, I’m Samanvitha!
 
-Welcome to my GitHub space — where curiosity meets code!  
-I’m a passionate **Data Science Enthusiast** and a **final-year student at BVRIT Hyderabad**.  
-I love exploring the intersection of **Machine Learning, Deep Learning, and AI** to solve real-world problems, especially in the fields of **E-Commerce Analytics** and **Chemical Reaction Predictions**.
+🎯 **Aspiring Data Scientist & Data Analyst | Final-Year CSE Student at BVRIT Hyderabad**
+
+Welcome to my digital playground — where data meets curiosity and code powers creativity!  
+I am deeply passionate about uncovering patterns in data and transforming raw numbers into meaningful insights using Machine Learning, Deep Learning, and Visualization techniques.
 
 ---
+
 
 ## 💡 About Me
 
 - 🎓 **B.Tech, Computer Science Engineering**  
 - 💼 Passionate about **Data Science, Machine Learning, SQL, Deep Learning & NLP**  
 - 🔬 Fascinated by **AI applications in Chemistry** and Scientific Modelling  
-- 🌱 Currently learning: **Advanced SQL, PyTorch, Transformers**
+- 🌱 Currently learning: **Advanced SQL, PyTorch, PySpark**
 
 ---
 
